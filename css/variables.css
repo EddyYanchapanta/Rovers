@@ -1,0 +1,46 @@
+:root {
+    --font-size: 1rem;
+    --gap: 1rem;
+    --first-color: #21242e;
+    --second-color: #fa573a;
+    --text-color: #aaaaaa;
+    --primary-font: "Montserrat", serif;
+    --secondary-font: "Handlee", serif;
+    --container-mobile: 37.5rem;
+    --container-tablet: 48rem;
+    --container-pc: 62.75rem;
+
+}
+
+/* Los breakpoints son 0 - 600px → movil 601px - 768px → tablet 769px - 1004px → Desktop */
+/*El contenedor tiene una maximo de 1004px  */
+
+/* <i class="fa-solid fa-phone"></i> */
+/* https: //fontawesome.com/icons/phone?f=classic&s=solid */
+/* f095 */
+
+/* <i class="fa-solid fa-cart-shopping"></i> */
+/* https: //fontawesome.com/icons/cart-shopping?f=classic&s=solid */
+/* f07a */
+
+/*  <i class="fa-solid fa-envelope"></i> */
+/* https: //fontawesome.com/icons/envelope?f=classic&s=solid */
+/* f0e0 */
+
+/* <i class="fa-solid fa-circle-user"></i> */
+/* https: //fontawesome.com/icons/circle-user?f=classic&s=solid */
+/* f2bd */
+
+/* <i class="fa-solid fa-gears"></i> */
+/* https: //fontawesome.com/icons/gears?f=classic&s=solid */
+/* f085 */
+
+/* <i class="fa-solid fa-truck"></i> */
+/* https: //fontawesome.com/icons/truck?f=classic&s=solid */
+/* f0d1 */
+
+/* <i class="fa-solid fa-heart"></i> */
+/* https: //fontawesome.com/icons/heart?f=classic&s=solid */
+/* f004 */
+
+/* <i class="fa-regular fa-square-caret-up"></i> */

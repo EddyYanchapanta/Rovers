@@ -1,0 +1,30 @@
+.container {
+    color: var(--second-color);
+    text-align: center;
+    align-content: center;
+
+}
+
+
+h1,
+h2 {
+
+    margin: 2rem;
+    font-weight: bold;
+}
+
+img {
+    width: 100%;
+    /* adaptar el bloque a la imagen */
+    height: auto;
+    display: block;
+}
+
+figure {
+
+    width: 400px;
+    margin: 20px auto;
+    border-radius: 40px;
+    overflow: hidden;
+    position: relative;
+}
